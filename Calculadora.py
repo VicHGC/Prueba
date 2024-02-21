@@ -1,5 +1,6 @@
 # Importar la biblioteca tkinter bajo el alias tk
 import tkinter as tk
+#modifique este archivo
 # Importar la constante END del módulo tkinter
 from tkinter import END
 # Importar el módulo math para operaciones matemáticas avanzadas
